@@ -263,15 +263,16 @@ iframe {
 
 // Social Media Path Colors
 
-#instagram:hover path {fill: $instagram}
+.socials.instagram:hover path {fill: $instagram}
 
-#youtube:hover path {fill: $youtube}
+.socials.youtube:hover path {fill: $youtube}
 
-#twitch:hover path {fill: $twitch}
+.socials.twitch:hover path {fill: $twitch}
 
-#github:hover path {fill: $github}
+.socials.github:hover path {fill: $github}
 
-#email:hover path {fill: $brand}
+.socials.email:hover path {fill: $brand}
+
 
 .about-skew {
     background-color: white;
