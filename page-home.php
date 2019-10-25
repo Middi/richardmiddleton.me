@@ -45,7 +45,7 @@ get_header(); ?>
         <a href="#about" class="skew-button">
         </a>
         <div class="hero-container">
-            <span class="hero-text">
+            <div class="hero-text">
                 <div class="hero-text-upper">
                     <img class="avatar" src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/img/avatar.png" alt="avatar">
                     <h5 class="highlight">Web Developer & Teacher</h5>
