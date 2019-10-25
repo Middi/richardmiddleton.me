@@ -65,7 +65,7 @@
                     </div>
                 </a>
             </div>
-            <p class="footer-p">RichardCodes 2018</p>
+            <p class="footer-p">RichardCodes 2019</p>
         </div>
     </footer>
 
