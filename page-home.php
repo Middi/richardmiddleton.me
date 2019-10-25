@@ -45,13 +45,13 @@ get_header(); ?>
         <a href="#about" class="skew-button">
         </a>
         <div class="hero-container">
-            <div class="hero-text">
+            <span class="hero-text">
                 <div class="hero-text-upper">
                     <img class="avatar" src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/img/avatar.png" alt="avatar">
                     <h5 class="highlight">Web Developer & Teacher</h5>
                 </div>
                 <h1 class="h1-display">Hey! I'm
-                    <span class="span-display">Richefefefard</span> & this is my website, feel free to have a look around<span class="span-display">.</span>
+                    <span class="span-display">Richard</span> & this is my website, feel free to have a look around<span class="span-display">.</span>
                 </h1>
             </div>
             <iframe src="https://www.youtube.com/embed/gLWIYk0Sd38?rel=0&amp;showinfo=0" allowfullscreen></iframe>
