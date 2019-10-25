@@ -67,10 +67,10 @@ get_header(); ?>
             <div class="empty"></div>
             <div class="about-container-text">
                 <h5 class="highlight">About</h5>
-                <h2 class="h2-display">I'm a web developer from the U.K Currently in Oslo, Norway.</h2>
-                <p class="p-display">I like to get involved in coding communities. I am a local leader for freeCodeCamp Oslo and Leeds, I also like to run events and help others learn in person and on <strong>YouTube.</strong>
+                <h2 class="h2-display">I'm a web developer from Leeds U.K.</h2>
+                <p class="p-display">I like to get involved in coding communities. I am a local leader for freeCodeCamp Leeds and Oslo, I also like to run events and help others learn in person and on <strong>YouTube.</strong>
                 </p>
-                <p class="p-display">I run the <strong>freeCodeCamp Instagram</strong> with 11K members, along with my <strong>personal instagram</strong> account.</p>
+                <p class="p-display">I run the <strong>freeCodeCamp Instagram</strong> with 32K members, along with my <strong>personal instagram</strong> account.</p>
                 <p class="p-display">Outside of coding I'm a keen musician and when there is snow, I enjoy hitting the slopes and having a snowboard.</p>
                 <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/img/signature.svg" alt="signature" class="signature">
                 <p class="p-display">
