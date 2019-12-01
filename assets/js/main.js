@@ -46,7 +46,7 @@ if (window.addEventListener) {
     window.addEventListener("keydown", function (e) {
         keys.push(e.keyCode);
         if (keys.toString().indexOf(konami) >= 0) {
-            window.location = "/wp-admin";
+            window.location = "/rm-login";
             keys = [];
         }
     }, true);
