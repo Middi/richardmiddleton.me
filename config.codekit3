@@ -2322,7 +2322,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "richardcodeswp.local",
+	"externalServerAddress": "portfolio.local",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

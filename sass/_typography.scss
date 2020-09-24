@@ -188,3 +188,57 @@ figcaption {
 ::selection {background: lighten(saturate($brand, 100), 6)}
 
 span::selection {background: black}
+
+  
+  /* Default Table Style */
+  table {
+    color: $black;
+    width: 100%;
+    background: white;
+    border: 1px solid grey;
+    border-collapse: collapse;
+  }
+  table thead th,
+  table tfoot th {
+    color: $black;
+    background: rgba(0,0,0,.1);
+    font-size: 1.1rem;
+  }
+  table caption {
+    padding:.5em;
+  }
+  table th,
+  table td {
+      max-width: 100%;
+    padding: .5em;
+    font-size: 1.1rem;
+    border: 1px solid lightgrey;
+
+    h6 {
+        white-space: nowrap;
+        font-size: 1rem;
+    }
+    .deprecated {
+        font-size: .8rem;
+        color: red;
+
+    h6 {
+        display: inline;
+        font-size: .8rem;
+    }
+    }
+
+  }
+
+
+  table tr:nth-child(odd) {
+    background: rgba(0,0,0,0.15);
+}
+
+
+table th {
+  color: $brand;
+  font-family: 'Open Sans', sans-serif;
+  background: rgba(0, 0, 0, 1);
+  font-size: 1.1rem;
+}
